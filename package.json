@@ -1,5 +1,5 @@
 {
-  "name": "gitexerciseinclass",
+  "name": "GitTests,
   "version": "1.0.0",
   "description": "tilraun",
   "main": "app.js",
@@ -17,12 +17,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Flimster/GitExerciseInclass.git"
+    "url": "git+https://github.com/sindridan/GitTests.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Flimster/GitExerciseInclass/issues"
+    "url": "https://github.com/sindridan/GitTests/issues"
   },
-  "homepage": "https://github.com/Flimster/GitExerciseInclass#readme"
+  "homepage": "https://github.com/sindridan/GitTests#readme"
 }
